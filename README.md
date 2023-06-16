@@ -16,6 +16,7 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+```
 <head>
 <meta content="en-us" http-equiv="Content-Language">
 <style type="text/css">
@@ -66,7 +67,7 @@ VERMECELLI(50$)</p>
 </form>
 </p>
 <p>&nbsp;</p>
-
+```
 ## OUTPUT
 
 ![Screenshot 2023-06-16 130604](https://github.com/SaiganeshVelu/Ex09_Web-Design/assets/127816325/ca4d4f84-7f22-4cae-94e4-b9e5d70f0635)
